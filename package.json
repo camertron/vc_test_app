@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "private": true,
+  "scripts": {
+    "build": "bun bun.config.js"
+  },
+  "dependencies": {
+    "@primer/css": "^21.4.0",
+    "@primer/primitives": "^9.1.2",
+    "@primer/view-components": "^0.34.0"
+  }
+}
