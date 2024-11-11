@@ -46,4 +46,4 @@ group :development do
 end
 
 
-gem "primer_view_components", "~> 0.34.0"
+gem "primer_view_components", "~> 0.35.1"
